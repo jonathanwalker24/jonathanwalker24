@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to code and making a career change
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on understanding html, ccs, and javascript
-- 📫 Email me directly at jonathanwalker24@yahoo.com
+- 
 
 <!---
 jonathanwalker24/jonathanwalker24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
